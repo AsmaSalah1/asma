@@ -1,0 +1,15 @@
+.name{
+    color: black;
+}
+.cart{
+    
+    margin: auto;
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.hei{
+    height: 75vh !important; 
+    width: 650px !important;
+}
